@@ -1,0 +1,16 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binaries
+*.out
+*.exe
+
+# Temporary files
+*.swp
+*.bak
+*.log
+
+# IDE-specific files (e.g., for Visual Studio, etc.)
+.vscode/
+.idea/
